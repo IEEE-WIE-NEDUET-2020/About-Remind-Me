@@ -31,5 +31,20 @@ The problem we approach by this application is managing the  on-site University 
 
 ## DEVELOPMENT TOOLS
 
+- App developed on Android Studio with Java
+- Firebase used for Google SignIn Authentication, Realtime Database and Push Notification
+- Google App scripts used for authorizing CRs to create classes.
 
+<div float="left">
+ <img style="display:'inline'" src = "https://www.xda-developers.com/files/2017/04/android-studio-logo.png" width = "300" height = 100> 
+
+<img style="display:'inline'"  src = "https://upload.wikimedia.org/wikipedia/commons/b/bd/Firebase_Logo.png" width = "300" height = 100> 
+
+<img style="display:'inline'" src = "https://icon-library.com/images/java-icon-images/java-icon-images-4.jpg" width = "300" height = 100> 
+
+</div>
+<br>
+
+<img style="display:'inline'" 
+src = "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/158819724/original/ee382621ccb72aa8e10cf1d27e277c253a47c3b9/create-a-google-apps-script.png" width = "300" height = "150"> 
 
