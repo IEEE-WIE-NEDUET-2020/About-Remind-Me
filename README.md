@@ -5,6 +5,9 @@ the schedules of upcoming classes and other events like test, assignment and use
 
 Whenever a CR posts any assignment or test notice, a notfication is sent to all the students of that class and a reminder is scheduled to remind them a day before test or assignment!
 
+### Connect with the Dev Team here :smile:  https://ieee-wie-neduet-2020.github.io/TeamCredits/
+
+
 ## What Remind Me offers 
 
 A Class will be created by a single representative from each class who then shares the class code (provided by the app ) with 
