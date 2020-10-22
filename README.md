@@ -13,8 +13,8 @@ Whenever a CR posts any assignment or test notice, a notfication is sent to all 
 ## What Remind Me offers 
 <div float="left">
  <img style="display:'inline' " src = "https://user-images.githubusercontent.com/57236937/96912691-976ac800-1457-11eb-8b27-c06049fc4261.jpeg" width = "150" height = 200> 
-
-<img style="display:'inline' padding:'5'"  src = "https://user-images.githubusercontent.com/57236937/96912712-a0f43000-1457-11eb-9b2c-21745c5d87b0.jpg" width = "200" height = 200 > 
+<img style="display:'inline' "  src = "https://user-images.githubusercontent.com/57236937/96912712-a0f43000-1457-11eb-9b2c-21745c5d87b0.jpg" width = "200" height = 200 > 
+<img style="display:'inline'" src="https://user-images.githubusercontent.com/57236937/96914735-3d1f3680-145a-11eb-8e48-7a7afc7ffaeb.jpeg" width:"200" height="200">
 </div>
 A Class will be created by a single representative from each class who then shares the class code (provided by the app ) with 
 other mates to enter the class, after entering the class, students will have access to the posts made by their CR as follows:
