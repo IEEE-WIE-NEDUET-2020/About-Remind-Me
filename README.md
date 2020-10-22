@@ -17,6 +17,7 @@ other mates to enter the class, after entering the class, students will have acc
  <img style="display:'inline' " src = "https://user-images.githubusercontent.com/57236937/96915649-5b396680-145b-11eb-9674-cbc3c770c1ed.jpeg" width = "200" height = 300> 
 <img style="display:'inline' "  src = "https://user-images.githubusercontent.com/57236937/96912712-a0f43000-1457-11eb-9b2c-21745c5d87b0.jpg" width = "200" height = 300 > 
 <img style="display:'inline'" src="https://user-images.githubusercontent.com/57236937/96914735-3d1f3680-145a-11eb-8e48-7a7afc7ffaeb.jpeg" width:"250" height="300">
+ <img style="display";inline'" src="https://user-images.githubusercontent.com/57236937/96918237-dcdec380-145e-11eb-8470-b7c392c0e89c.jpg" width:"200" height="300">
 </div>
 
 ### Alert
