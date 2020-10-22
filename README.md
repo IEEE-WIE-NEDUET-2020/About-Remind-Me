@@ -6,10 +6,16 @@ the schedules of upcoming classes and other events like test, assignment and use
 Whenever a CR posts any assignment or test notice, a notfication is sent to all the students of that class and a reminder is scheduled to remind them a day before test or assignment!
 
 ### Connect with the Dev Team here :smile:  https://ieee-wie-neduet-2020.github.io/TeamCredits/
-
+<div float="left">
+ <img style="display:'inline'" src = "https://user-images.githubusercontent.com/57236937/96912640-8326cb00-1457-11eb-8418-7fd9c2007928.jpeg" width = "200" height = 300> 
+ </div>
 
 ## What Remind Me offers 
+<div float="left">
+ <img style="display:'inline' " src = "https://user-images.githubusercontent.com/57236937/96912691-976ac800-1457-11eb-8b27-c06049fc4261.jpeg" width = "200" height = 200> 
 
+<img style="display:'inline' padding:'5'"  src = "https://user-images.githubusercontent.com/57236937/96912712-a0f43000-1457-11eb-9b2c-21745c5d87b0.jpg" width = "200" height = 200 > 
+</div>
 A Class will be created by a single representative from each class who then shares the class code (provided by the app ) with 
 other mates to enter the class, after entering the class, students will have access to the posts made by their CR as follows:
 
