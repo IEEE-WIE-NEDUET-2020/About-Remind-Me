@@ -12,7 +12,7 @@ Whenever a CR posts any assignment or test notice, a notfication is sent to all 
 
 ## What Remind Me offers 
 <div float="left">
- <img style="display:'inline' " src = "https://user-images.githubusercontent.com/57236937/96912691-976ac800-1457-11eb-8b27-c06049fc4261.jpeg" width = "150" height = 300> 
+ <img style="display:'inline' " src = "https://user-images.githubusercontent.com/57236937/96915649-5b396680-145b-11eb-9674-cbc3c770c1ed.jpeg" width = "200" height = 300> 
 <img style="display:'inline' "  src = "https://user-images.githubusercontent.com/57236937/96912712-a0f43000-1457-11eb-9b2c-21745c5d87b0.jpg" width = "200" height = 300 > 
 <img style="display:'inline'" src="https://user-images.githubusercontent.com/57236937/96914735-3d1f3680-145a-11eb-8e48-7a7afc7ffaeb.jpeg" width:"250" height="300">
 </div>
