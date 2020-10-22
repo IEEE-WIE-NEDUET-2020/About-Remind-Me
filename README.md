@@ -11,13 +11,13 @@ Whenever a CR posts any assignment or test notice, a notfication is sent to all 
  </div>
 
 ## What Remind Me offers 
-<div float="left">
- <img style="display:'inline' " src = "https://user-images.githubusercontent.com/57236937/96915649-5b396680-145b-11eb-9674-cbc3c770c1ed.jpeg" width = "200" height = 300> </br>
-<img style="display:'inline' "  src = "https://user-images.githubusercontent.com/57236937/96912712-a0f43000-1457-11eb-9b2c-21745c5d87b0.jpg" width = "200" height = 300 > </br>
-<img style="display:'inline'" src="https://user-images.githubusercontent.com/57236937/96914735-3d1f3680-145a-11eb-8e48-7a7afc7ffaeb.jpeg" width:"250" height="300">
-</div>
 A Class will be created by a single representative from each class who then shares the class code (provided by the app ) with 
 other mates to enter the class, after entering the class, students will have access to the posts made by their CR as follows:
+<div float="left">
+ <img style="display:'inline' " src = "https://user-images.githubusercontent.com/57236937/96915649-5b396680-145b-11eb-9674-cbc3c770c1ed.jpeg" width = "200" height = 300> 
+<img style="display:'inline' "  src = "https://user-images.githubusercontent.com/57236937/96912712-a0f43000-1457-11eb-9b2c-21745c5d87b0.jpg" width = "200" height = 300 > 
+<img style="display:'inline'" src="https://user-images.githubusercontent.com/57236937/96914735-3d1f3680-145a-11eb-8e48-7a7afc7ffaeb.jpeg" width:"250" height="300">
+</div>
 
 ### Alert
 This is Alert about sudden cancels of classes, tests, assignment submission or any other. As soon the CR post the Alert, a notification will be sent to all students.
@@ -25,15 +25,26 @@ This is Alert about sudden cancels of classes, tests, assignment submission or a
 ### Schedule: 
 Class schedule is set here. We make sure the experience is as good as possible and user-friendly. It will schedule/update you all about the classes as set by the CR.
 
+<div float="left">
+ <img style="display:'inline' " src = "https://user-images.githubusercontent.com/57236937/96912765-b49f9680-1457-11eb-8f89-dacd3b3f0308.jpg" width = "200" height = 300> 
+ </div>
+ 
 ### Test: 
 This will update related to the tests set by the CR and remind you a day before the test.
 
 ### Assignment:
 It will remind you assignments set by the CR of your class
 
+<div float="left">
+ <img style="display:'inline' " src = "https://user-images.githubusercontent.com/57236937/96912667-8de16000-1457-11eb-9264-98ed449d1993.jpg" width = "200" height = 300> 
+ </div>
+ 
 ### My Notes: 
 This is just for your personal notes. You want to remember any task you can add up and it will remind you.
 
+<div float="left">
+ <img style="display:'inline' " src = "https://user-images.githubusercontent.com/57236937/96912739-a8b3d480-1457-11eb-992c-aa1352d771f3.jpg" width = "200" height = 300> 
+ </div>
  
 The problem we approach by this application is managing the  on-site University schedules which is very tough and this  will be very helpful but unfortunately due to the Covid-19, most of us are having our classes online. Nevertheless, this app is a handy tool for CR to ease their duties, be it online or onsite classes !
 
